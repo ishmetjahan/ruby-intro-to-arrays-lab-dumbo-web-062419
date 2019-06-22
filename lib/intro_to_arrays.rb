@@ -9,6 +9,7 @@ end
 def frist_element (arr)
  #return arr[0]
  return.first
+ # this is the most difficult problem because I even tried the slice method and that doesn't work 
 end
 #
 def third_element (arr)
