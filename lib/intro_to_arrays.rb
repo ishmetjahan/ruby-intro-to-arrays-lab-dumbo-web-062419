@@ -7,7 +7,8 @@ def array_with_two_elements
 end
 #
 def frist_element (arr)
- return arr[0]
+ #return arr[0]
+ return.first
 end
 #
 def third_element (arr)
